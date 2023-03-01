@@ -10,7 +10,7 @@ _Left to Right: Aneesha Koninty, Rayna Budigelli, Niesha Karthik, Amulya Gottipa
 # Spin Up Bot Features
 
 Our Spin Up bot "Ro Bob" for the Virginia States touranment has 
-* 4 motor drivetrain - with 200 RPM motor cartiridge geared up to 280 RPM
+* 4 motor drivetrain - with 200 RPM motor cartiridge geared up to 280 RPM on 4-inch wheels
 * 2 motor intake/spinner - with 600 RPM motor cartiridge, typically running at 400 RPM
 * 2 motor flywheel - with 600 RPM motor cartiridge, geared up to 3000 RPM, but typically running at 1800-2100 RPM
 * 15s win-point capable auton - spins roller and shoots 2 (left) or 5 (right) disks

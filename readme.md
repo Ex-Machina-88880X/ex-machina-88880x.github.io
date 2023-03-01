@@ -3,6 +3,19 @@ _Left to Right: Aneesha Koninty, Rayna Budigelli, Niesha Karthik, Amulya Gottipa
 
 ![](./vrc-girl-powered.png)
 
+# Spin Up Bot Features
+
+Our Spin Up bot "Ro Bob" for the Virginia States touranment has 
+* 4 motor drivetrain - with 200 RPM motor cartiridge geared up to 280 RPM on 4-inch wheels
+* 2 motor intake/spinner - with 600 RPM motor cartiridge, typically running at 400 RPM
+* 2 motor flywheel - with 600 RPM motor cartiridge, geared up to 3000 RPM, but typically running at 1800-2100 RPM
+* 15s win-point capable auton - spins roller and shoots 2 (left) or 5 (right) disks
+* 150+ point capable programming skills
+* Inertial sensor for accurate turn PID and shooting orientation
+* Distance sensors for Okapilib Odometery error correction and reset
+* Optical Sensor to detect proximity and color of rollers for spinner automtion
+* Optical line trackers for tracking disk intake/outake for 3-disk intake automation
+* 3-encoder odomoetry using our own extensions to Okapilib, that averages left and right integrated motor group encoders and an external middle encoder
 
 # About Us
 We are Team **88880X**, otherwise known as Ex Machina.
